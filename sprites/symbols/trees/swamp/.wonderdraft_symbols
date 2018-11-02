@@ -1,0 +1,7 @@
+{
+    "name": "Swamp Tree",
+    "radius": 128,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

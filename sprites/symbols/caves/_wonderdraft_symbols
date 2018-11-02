@@ -1,0 +1,37 @@
+{
+    "crater": {
+        "name": "Crater",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "crater_sample": {
+        "name": "Crater Sample",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "small_cave": {
+        "name": "Small Cave",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "small_cave_earth": {
+        "name": "Small Cave Earth",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "small_cave_sample": {
+        "name": "Small Cave Sample",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

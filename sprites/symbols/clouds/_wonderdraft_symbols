@@ -1,0 +1,37 @@
+{
+    "cloud1": {
+        "name": "Cloud 1",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "cloud2": {
+        "name": "Cloud 2",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "cloud3": {
+        "name": "Cloud 3",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "cloud4": {
+        "name": "Cloud 4",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "cloud5": {
+        "name": "Cloud 5",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

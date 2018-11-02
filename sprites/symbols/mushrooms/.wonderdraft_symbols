@@ -1,0 +1,44 @@
+{
+    "mushroom_1": {
+        "name": "Mushroom 1",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "mushroom_2": {
+        "name": "Mushroom 2",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "mushroom_3": {
+        "name": "Mushroom 3",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "mushroom_4": {
+        "name": "Mushroom 4",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "mushroom_5": {
+        "name": "Mushroom 5",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "mushroom_6": {
+        "name": "Mushroom 6",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}
